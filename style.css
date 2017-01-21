@@ -1,0 +1,15 @@
+body {
+    font-family: 'Quicksand';
+    color: aliceblue;
+    font-size: 48px;
+    background-color: #9370DB;
+}
+
+h3 {
+    margin: 0 auto;
+    text-align:center;
+}
+
+h1 {
+    opacity: 50%;
+}
